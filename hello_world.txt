@@ -1,0 +1,2 @@
+Olá. Na prática com o git e github para poder ter condições 
+de no futuro poder aplicar profissionalmente.
